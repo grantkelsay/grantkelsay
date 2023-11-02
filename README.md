@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Grant!
 
-<!--
-**grantkelsay/grantkelsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##👨‍💻 Software Engineering Student @ASU 🎓 (Graduating May 2024)
 
-Here are some ideas to get you started:
+- Proficient in Java for robust backend development.
+- Experienced in C/C++ for systems programming and performance optimization.
+- Skilled in JavaScript/TypeScript for dynamic web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🔭 I’m currently working on:
+
+Building a Personal Task Board Project that merges all aspects of programming, from frontend (React/Vue.js) to backend (Java/C/C++) and database integration (SQL/NoSQL).
+
+##🌱 I’m currently learning 
+
+- React.js
+- Vue.js
+
+##🔗 Connect with me to explore more of my work:
+
+LinkedIn: https://www.linkedin.com/in/grant-kelsay/
