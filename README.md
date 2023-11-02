@@ -8,7 +8,8 @@
 
 ## 🔭 I’m currently working on:
 
-Building a Personal Task Board Project that merges all aspects of programming, from frontend (React/Vue.js) to backend (Java/C/C++) and database integration (SQL/NoSQL).
+Building a Personal Task Board Project that merges all aspects of programming, from frontend (React/Vue.js) to backend (Java/C/C++) and database integration (SQL/NoSQL).  
+Check it out: https://github.com/grantkelsay/Minimal-ToDo-App
 
 ## 🌱 I’m currently learning 
 
