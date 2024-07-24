@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Grant!
 
-## 👨‍💻 Software Engineering Student @ASU 🎓 (Graduating May 2024)
+## 👨‍💻 Software Engineer
 
 - Proficient in Java for robust backend development.
 - Experienced in C/C++ for systems programming and performance optimization.
@@ -11,10 +11,17 @@
 Building a Personal Task Board Project that merges all aspects of programming, from frontend (React/Vue.js) to backend (Java/C/C++) and database integration (SQL/NoSQL).  
 Check it out: https://github.com/grantkelsay/Minimal-ToDo-App
 
+Creating a monthly budgeting web application that allows users to easily create a budget and track their finances. The project utilizes React, Next.js, and tailwindCSS for beautiful styling.
+Check it out: 
+
 ## 🌱 I’m currently learning 
 
 - React.js
-- Vue.js
+- MySQL
+
+## 💼 My Project Portfolio 
+- MNMLTODO productivity web-app: https://github.com/grantkelsay/Minimal-ToDo-App
+- EZBUDGET monthly budgeting web-app: 
 
 ## 🔗 Connect with me to explore more of my work:
 
