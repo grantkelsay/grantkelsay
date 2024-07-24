@@ -21,7 +21,7 @@ Check it out:
 
 ## 💼 My Project Portfolio 
 - MNMLTODO productivity web-app: https://github.com/grantkelsay/Minimal-ToDo-App
-- EZBUDGET monthly budgeting web-app: 
+- EZBUDGET monthly budgeting web-app: https://github.com/grantkelsay/EZ-BUDGET/tree/main
 
 ## 🔗 Connect with me to explore more of my work:
 
