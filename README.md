@@ -8,11 +8,8 @@
 
 ## 🔭 I’m currently working on:
 
-Building a Personal Task Board Project that merges all aspects of programming, from frontend (React/Vue.js) to backend (Java/C/C++) and database integration (SQL/NoSQL).  
-Check it out: https://github.com/grantkelsay/Minimal-ToDo-App
-
 Creating a monthly budgeting web application that allows users to easily create a budget and track their finances. The project utilizes React, Next.js, and tailwindCSS for beautiful styling.
-Check it out: 
+Check it out: https://github.com/grantkelsay/EZ-BUDGET/tree/main
 
 ## 🌱 I’m currently learning 
 
